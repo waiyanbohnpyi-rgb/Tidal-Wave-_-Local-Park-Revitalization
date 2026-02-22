@@ -141,7 +141,7 @@ body {
     display: none;
 }
 .hero-content{
-    background-image: url(../LocalSunnyParKDark.jpg);
+    background-image: url(LocalSunnyParKDark.jpg);
     background-size: cover;
     background-position: center;
     height: 800px;
@@ -696,4 +696,5 @@ body {
         font-size: 0.85rem;
         padding: 6px 10px;
     }
+
 }
